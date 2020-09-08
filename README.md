@@ -1,1 +1,1 @@
-This the first projet to Holberto School
+*This the first project to Holberton School*
