@@ -1,1 +1,1 @@
-*Learning git commands at Holberton School By Cristian Acero*
+*Learning git commands at Holberton School By Cristian Acero, some changes*
